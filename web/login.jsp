@@ -13,5 +13,6 @@
     </head>
     <body>
        Ingrese Usuario y Clave
+       <a href="menu.jsp"> Ingresar </a>
     </body>
 </html>
